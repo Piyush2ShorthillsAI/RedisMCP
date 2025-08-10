@@ -86,10 +86,11 @@ Rediflow/
 └── README.md                    # setup instructions and project overview
 └──.gitignore                    # list of files to exclude from Git tracking
 └── requirement.txt                   # list of all Python dependencies
+```
 
 ## Installation & Setup
 
-### Prerequisites
+## Prerequisites
 
 - **Python 3.10 or higher**
 - **Redis Database** (Redis Cloud recommended with RediSearch module)
