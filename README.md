@@ -86,7 +86,6 @@ Rediflow/
 └── README.md                    # setup instructions and project overview
 └──.gitignore                    # list of files to exclude from Git tracking
 └── requirement.txt                   # list of all Python dependencies
-```
 
 ## Installation & Setup
 
@@ -183,6 +182,8 @@ uv run redis-mcp-server --url redis://localhost:6379/0
 ```bash
 cd chat_and_recommandation
 streamlit run login.py
+```Demo Username = admin
+   Demo Password = password123
 ```
 
 ### Using the Application
